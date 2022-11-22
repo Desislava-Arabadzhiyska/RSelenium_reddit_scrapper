@@ -3,7 +3,7 @@
 #Parts of this script are based on the tutorial by Samer Hijjazi (https://www.youtube.com/watch?v=U1BrIPmhx10)
 #other parts are based on the Data Science Dojo tutorial (https://www.youtube.com/watch?v=NwtxrbqE2Gc)
 #as well as Cosima Meyer's tutorial (https://www.youtube.com/watch?v=bvqur70ZmyM)
-#https://mybinder.org/v2/gh/Desislava-Arabadzhiyska/binder_web_scraping_app/main?urlpath=shiny/ShinyApp/
+
 #Load packages
 library("tidyverse")#for data tidying etc.
 library("RSelenium")#for interacting with the webpage
